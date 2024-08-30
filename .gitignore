@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/target/
+
+### YML ###
+/src/main/resources/application-prod.yml
